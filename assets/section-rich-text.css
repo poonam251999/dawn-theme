@@ -87,3 +87,6 @@
 h2.rich-text__heading.rte.h1 span {
     color: red;
 }
+h2.rich-text__heading.rte.h1 span {
+    color: green !important;
+}
